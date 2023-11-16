@@ -39,7 +39,7 @@ const City = ({ weatherData }) => {
           <IconText
             iconName={"users"}
             iconColor={"white"}
-            bodyText={"Population: Unknown"}
+            bodyText={"Population: Unknown"} // Put The variable population here
             bodyTextStyles={populationText}
           />
         </View>
